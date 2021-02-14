@@ -4,7 +4,8 @@
 2-Memory management is another function of the operating system. The operating system manages and controls the main memory. The main memory is the fast storage that can be accessed directly by the CPU.
 
 3- file management: The operation system allocates and de-allocates resources. It manages which process gets the file and for how long. Also, it keeps track of the information, location, and status.
-              Advantages for iOS: 
+
+ Advantages for iOS: 
 
 •iOS users find no problem playing games because iOS only approved games that have the right code. 
 •any iPhone users' notes there is no heat while using it.
